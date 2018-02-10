@@ -575,7 +575,7 @@ GRLIB_arsenal_items = [
 	"rhs_m4_grip_acog3_usmc",
 	"rhs_m4a1_grip_eotech",
 	"rhs_m4a1_grip_acog_usmc",
-	rhs_m4a1_grip_acog2_usmc_sup",
+	"rhs_m4a1_grip_acog2_usmc_sup",
 	"rhs_m4a1_grip_acog2_usmc_sup_tan",
 	"rhs_m4a1_grip_acog3_usmc_sup",
 	"rhs_m4a1_grip_eotech_soc",
